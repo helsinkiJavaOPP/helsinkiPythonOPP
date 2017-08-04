@@ -1,0 +1,6 @@
+name1=input("Type your name: ")
+age1=float(input("Type your age: "))
+print("\n\n\n")
+name2=input("Type your name: ")
+age2=float(input("Type your age: "))
+print(name1," and ",name2," are ",age1+age2," years old int total")
