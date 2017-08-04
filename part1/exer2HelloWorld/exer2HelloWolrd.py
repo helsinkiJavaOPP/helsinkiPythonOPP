@@ -1,0 +1,1 @@
+print("Hello World!" + "\n(and all the people of the world)")
